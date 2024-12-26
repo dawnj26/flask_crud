@@ -18,3 +18,4 @@
 ---
 - Import `flask_endterm.sql` to your database
 - Modify .env variables to your MySQL credentials
+- Then `flask run` to start the app
