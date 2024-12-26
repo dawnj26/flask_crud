@@ -5,7 +5,6 @@ from flask import (
     render_template,
     session,
     flash,
-    current_app,
 )
 
 from services.product_service import get_all_products
