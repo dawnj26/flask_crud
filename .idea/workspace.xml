@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6ba402b-0c3c-4f92-ac7e-bce712510a79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blueprints/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blueprints/index/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blueprints/index/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blueprints/product/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/product/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/auth_service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/auth_service/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/product_service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/product_service/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/user_service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/user_service/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blueprints/index/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/blueprints/index/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +37,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -133,6 +115,7 @@
       <updated>1735125542912</updated>
       <workItem from="1735125544047" duration="12213000" />
       <workItem from="1735189675773" duration="9404000" />
+      <workItem from="1735199326002" duration="72000" />
     </task>
     <servers />
   </component>
