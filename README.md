@@ -1,5 +1,5 @@
 # Installation
----
+
 ## Create virtual environment
 `python -m venv C:\path\of\this\project\.venv`
 ## Activate virtual environment (powershell)
@@ -15,7 +15,7 @@
 `pip install flask flask-mysqldb python-dotenv`
 
 # Post install
----
+
 - Import `flask_endterm.sql` to your database
 - Modify .env variables to your MySQL credentials
 - Then `flask run` to start the app
